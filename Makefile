@@ -20,3 +20,9 @@ edit:
 
 open:
 	open http://$(SERVER_IP):$(SERVER_PORT)
+
+version_file="_data/version.yml"
+current_revision=$(shell git rev-parse --short HEAD)
+version:
+	echo "hash: $(current_revision)" > $(version_file)
+	git commit $(version_file) -m "bump version"
