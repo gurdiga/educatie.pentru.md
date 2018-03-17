@@ -11,3 +11,6 @@ bundler: /usr/local/bin/bundle
 /usr/local/bin/bundle:
 	gem install bundler
 	bundle install
+
+edit:
+	bundle open minima
