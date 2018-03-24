@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Cele mai recente articole" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts limit:3 -%}
       <li>
@@ -28,7 +28,6 @@ layout: default
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">Abonează-te la articole noi <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
 </div>
