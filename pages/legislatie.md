@@ -4,6 +4,9 @@ title: Legislație
 permalink: legislatie
 ---
 
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 La moment legislația RM are cîteva mențiuni despre forme alternative de educație:
 
 ## Constituția
