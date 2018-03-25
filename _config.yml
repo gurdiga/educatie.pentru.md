@@ -42,3 +42,6 @@ plugins:
 
 # Minima theme
 show_excerpts: true
+
+jekyll_compose:
+  auto_open: true

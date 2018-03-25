@@ -7,8 +7,15 @@ build: bundler
 start: bundler
 	bundle exec jekyll serve --host $(SERVER_IP) --port $(SERVER_PORT)
 
-new: bundler
-	read -p "Article title: " title && rake post["$$title"]
+post: bundler
+	read -p "Article title: " title && bundle exec jekyll post "$$title"
+
+# More jekyll-compose goodness, with `bundle exec`:
+# jekyll page "My New Page"
+# jekyll post "My New Post"
+# jekyll draft "My new draft"
+# jekyll publish _drafts/my-new-draft.md
+# jekyll unpublish _posts/2014-01-24-my-new-draft.md
 
 bundler: /usr/local/bin/bundle
 /usr/local/bin/bundle:
