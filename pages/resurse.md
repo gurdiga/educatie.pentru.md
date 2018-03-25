@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resurse
-permalink: resurse
+title: Cărți
+permalink: carti
 order: 3
 ---
 
