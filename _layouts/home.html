@@ -18,7 +18,7 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-          <span class="post-meta">{{ post.date | date_to_long_string }}</span>
+          <span class="post-meta">{% include functions/romanian_date.html date=post.date %}</span>
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
