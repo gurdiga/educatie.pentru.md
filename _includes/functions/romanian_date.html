@@ -1,4 +1,4 @@
-{%- assign month_index = include.date | date: "%m" | plus: 0 -%}
+{%- assign month_index = include.date | date: "%m" | minus: 1 -%}
 {%- assign date = include.date | date: "%d" -%}
 {%- assign romanian_month_name = site.data.romanian.month_names[month_index] -%}
 {%- assign full_year = include.date | date: "%Y" -%}
