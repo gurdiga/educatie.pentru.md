@@ -9,3 +9,18 @@ blockquote {
 .post-content h3 {
   margin-top: 1.5em;
 }
+
+#markdown-toc {
+  background-color: #f0f0f0;
+  list-style-position: inside;
+  margin-left: 0;
+  padding: 0.5em 1em;
+
+  &::before {
+    content: "Cuprins:";
+  }
+
+  li {
+    margin-left: 0.5em;
+  }
+}
