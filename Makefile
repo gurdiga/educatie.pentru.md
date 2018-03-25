@@ -10,6 +10,9 @@ start: bundler
 post: bundler
 	read -p "Article title: " title && bundle exec jekyll post "$$title"
 
+page:
+	read -p "Page title: " title && bundle exec jekyll page "$$title"
+
 # More jekyll-compose goodness, with `bundle exec`:
 # jekyll page "My New Page"
 # jekyll post "My New Post"
