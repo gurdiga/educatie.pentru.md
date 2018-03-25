@@ -10,9 +10,19 @@ order: 3
 
 ### John Holt
 
-* [How Children Learn](https://www.goodreads.com/book/show/573003)
+* [How Children Learn (Classics in Child Development)](https://www.goodreads.com/book/show/573003)
+  * На русском: «Залог детских успехов»
+    \[[отзыв](http://ps.1september.ru/article.php?ID=200205002)
+    • [PDF]({{"assets/books/John-Holt-How-Children-Learn-Russian.pdf" | relative_url }})
+    • [ozon.ru](https://www.ozon.ru/context/detail/id/2314792/)
+    • [meshok.net](https://meshok.net/item/7570465)]
 * [Teach Your Own](https://www.goodreads.com/book/show/573002)
-* [How Children Fail](https://www.amazon.com/gp/product/0201484021)
+* [How Children Fail (Classics in Child Development)](https://www.amazon.com/gp/product/0201484021)
+  * На русском: «Причины детских неудач»
+    \[[отзыв](https://www.livelib.ru/book/1000466175)
+    • [PDF](http://dpir.mskh.am/sites/default/files/John-Holt-How-Children-Fail-Russian.pdf)
+    • [ozon.ru](https://www.ozon.ru/context/detail/id/4778666/)
+    ]
 * [Learning All The Time](https://www.goodreads.com/book/show/573005)
 * [Instead of Education](https://www.goodreads.com/book/show/573008)
 
