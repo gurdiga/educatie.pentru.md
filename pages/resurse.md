@@ -5,6 +5,9 @@ permalink: resurse
 order: 3
 ---
 
+* Cuprins
+{:toc}
+
 ### John Holt
 
 * [How Children Learn](https://www.goodreads.com/book/show/573003)
