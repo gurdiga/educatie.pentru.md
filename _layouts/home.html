@@ -23,6 +23,8 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
+
+        <p><a href="{{ post.url | relative_url }}">Vezi articolul integral… →</a></p>
       </li>
       {%- endfor -%}
     </ul>
