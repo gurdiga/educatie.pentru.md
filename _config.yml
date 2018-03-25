@@ -42,7 +42,3 @@ plugins:
 
 # Minima theme
 show_excerpts: true
-
-# Custom
-paginate: 5
-paginate_path: "/blog/pagina-:num"
