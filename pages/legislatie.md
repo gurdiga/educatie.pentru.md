@@ -2,6 +2,7 @@
 layout: page
 title: Legislație
 permalink: legislatie
+order: 1
 ---
 
 * Do not remove this line (it will not be displayed)
