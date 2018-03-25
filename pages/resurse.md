@@ -26,9 +26,9 @@ order: 3
 
 * [Deschooling Society](https://www.goodreads.com/book/show/223403)
   * На русском: «Освобождение от школ»
-  \[[online](https://eusi.ru/lib/illic_osvobogdenie/index.php)
-  • [PDF](https://bojidarivkov.files.wordpress.com/2012/11/illich_ivan-osvobojdenie_ot_schkol.pdf)
-  • [ozon.ru](https://www.ozon.ru/context/detail/id/3478742/)]
+    \[[online](https://eusi.ru/lib/illic_osvobogdenie/index.php)
+    • [PDF](https://bojidarivkov.files.wordpress.com/2012/11/illich_ivan-osvobojdenie_ot_schkol.pdf)
+    • [ozon.ru](https://www.ozon.ru/context/detail/id/3478742/)]
 
 ### Durrell Gerald (Джеральд Даррелл)
 
