@@ -2,7 +2,7 @@
 layout: page
 title: FAQ
 permalink: faq
-order: 3
+order: 4
 ---
 
 TODO
