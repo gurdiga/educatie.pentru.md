@@ -5,7 +5,7 @@ permalink: legislatie
 order: 1
 ---
 
-* Do not remove this line (it will not be displayed)
+* Cuprins
 {:toc}
 
 La moment legislația RM are cîteva mențiuni despre forme alternative de educație:
@@ -62,9 +62,9 @@ La 24.07.1997 RM [a aderat](http://lex.justice.md/md/307753/) la [Convenția pen
 
 > „Statul, în exercitarea funcţiilor pe care şi le va asuma în domeniul educaţiei şi al învăţămîntului, va respecta dreptul părinţilor de a asigura această educaţie şi acest învăţămînt conform convingerilor lor religioase şi filozofice.”
 
-### Declaratia Universala a Drepturilor Omului
+### Declarația Universală a Drepturilor Omului
 
-La 28.07.1990 RM [a aderat](http://lex.justice.md/md/306843/) la [Declaratia Universala a Drepturilor Omului](http://lex.justice.md/md/356364/), care spune în alineatul 3 al articolului 26:
+La 28.07.1990 RM [a aderat](http://lex.justice.md/md/306843/) la [Declarația Universală a Drepturilor Omului](http://lex.justice.md/md/356364/), care spune în alineatul 3 al articolului 26:
 
 > „Părinţii au, cu prioritate, dreptul să aleagă felul educaţiei care urmează să fie dată copiilor lor.”
 
