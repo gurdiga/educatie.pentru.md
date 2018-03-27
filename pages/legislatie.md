@@ -98,6 +98,4 @@ Cu toate că nu reprezintă un element decisiv în cadrul metodelor alternative 
 
 ## Notă
 
-Dacă cunoașteți alte acte legislative relevante, scrieți-ne la adresa info@educatie.pentru.md.
-
-
+Dacă cunoașteți alte acte legislative relevante, [scrieți-ne la adresa educatie@pentru.md](mailto:educatie@pentru.md).
