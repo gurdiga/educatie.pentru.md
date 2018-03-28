@@ -9,33 +9,10 @@ layout: default
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Articole recente" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts limit:3 -%}
-      <li>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        <span class="post-meta">
-          {% include functions/romanian_date.html date=post.date %}
+  <h2 class="post-list-heading">Articole recente</h2>
+  {%- assign most_recent_posts = site.posts limit:5 -%}
+  {% include post_list.html posts=most_recent_posts %}
 
-          {%- if post.author -%}
-            • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ post.author }}</span></span>
-          {%- endif -%}</p>
-
-        </span>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-
-        <p><a href="{{ post.url | relative_url }}">Vezi articolul integral… →</a></p>
-      </li>
-      {%- endfor -%}
-    </ul>
-
-  {%- endif -%}
+  <p>Vedeți arhiva de articole pe <a href="{{ "/blog" | relative_url }}">Blog</a>.</p>
 
 </div>
