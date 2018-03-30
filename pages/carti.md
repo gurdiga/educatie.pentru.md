@@ -3,6 +3,7 @@ layout: page
 title: Cărți
 permalink: carti
 order: 3
+description: O listă de cărți despre educația alternativă.
 ---
 
 * Cuprins

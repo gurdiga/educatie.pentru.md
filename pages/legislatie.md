@@ -3,6 +3,7 @@ layout: page
 title: Legislație
 permalink: legislatie
 order: 1
+description: Mențiuni ale legislația RM cu privire la educația alternativă
 ---
 
 * Cuprins
