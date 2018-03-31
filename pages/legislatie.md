@@ -37,7 +37,7 @@ La moment legislația RM are cîteva mențiuni despre forme alternative de educa
 
 ## Codul familiei (cod nr. 1316 din  26.10.2000)
 
-[Codul familiei]() menționează în articolul 60 „Drepturile şi obligaţiile părinţilor privind educaţia şi instruirea copiilor” în alineatul (1) se spune:
+[Codul familiei](http://lex.justice.md/md/286119/) menționează în articolul 60 „Drepturile şi obligaţiile părinţilor privind educaţia şi instruirea copiilor” în alineatul (1) se spune:
 
 > „Părinţii au dreptul şi sînt obligaţi să-şi educe copiii conform propriilor convingeri, indiferent de faptul dacă locuiesc împreună sau separat.”
 
