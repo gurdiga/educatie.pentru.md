@@ -22,3 +22,29 @@ supuși niciodată unei evaluari și clasificări, în special, nu sunt judecaț
 reușita școlară și vîrstă. Desigur, acest proces este organizat și susținut de
 părinți, ținînd cont de parerea și interesele copilului, și desigur, asigurînd
 securitatea și sănătatea lui.
+
+Sînt riscuri, care unii părinți preferă să și le asume, și să aleagă educația
+în familie, care permite copiilor să vină în contact cu societatea în contexte
+multiple și cu persoane apropiate familiei de toate vîrstele.
+
+Conform dicționarului, cuvîntul „socializare” înseamnă:
+
+> Proces de integrare socială a unui individ într-o colectivitate. Adică,
+> a dezvolta rapoarte interpersonale, adaptîndu-se la regulile vieții în
+> societate activ.
+
+Evident că homeschooler-ii sînt în avantaj, fiind liberi de constrîgerile de
+spațiu și timp, exeprimentînd pe “propria piele”, ce înseamnă a interacționa cu
+mediul extern. Competiții sportive, excursii instructive, lecții de artă, dans,
+muzică, vizite la muzeu, spectacole și teatru, voluntariat, chiar și o simplă
+ieșire la cumpărături, întîlniri cu prietenii, toate acestea oferă oportunități
+de creștere socială, culturală și civică în afara sistmului școlare tradițional.
+
+În plus, noi părinții sîntem cei care ar trebui să transmită reguli și valori
+copiilor noștri. Problemele sociale pe care le traim in prezent sint cauzate
+inclusiv și de faptul că am delegat orbește această îndatorire la instituții,
+care cu siguranță nu pot să inlocuiască rolul părinților.
+
+Prin homeschooling părinții iși reasumă această responsabiliate fundamentală
+pentru binele psihic și fizic al propriilor copii și, astefel pentru întreaga
+societate.
