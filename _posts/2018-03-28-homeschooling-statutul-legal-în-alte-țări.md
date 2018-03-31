@@ -77,7 +77,7 @@ examenul nu este susținut de 2 ori, sint oblgați să se intorcă la școală. 
 
 Georgia – ilegal.
 
-Germania – ilegal. Sînt cîteva excepții și cu anii au fost foarte multe cazur de
+Germania – ilegal. Sînt cîteva excepții și cu anii au fost foarte multe cazuri de
 judecată. În 2010 o familie germană au primit azil politic în SUA. Și cu toate
 restricțiile, totuși se numără circa 400 homeschooleri.
 
@@ -114,7 +114,7 @@ Lettonia – ilegal.
 
 Lituania – ilegal.
 
-Luxemburg – legal. Numai pînă în clasa a 5.
+Luxemburg – legal. Numai pînă în clasa a 5-a.
 
 Macedonia – ilegal.
 
@@ -125,7 +125,7 @@ Mexica – legal. Mai mult de 50.000 homeschooleri.
 Moldova – ilegal. Mai mult de 50 de familii neoficial, o mare parte din ei cu
 cetățenie dublă, emigrați în țările vecine, unde homeschoolingul este legal sau
 inscriși în școli private la distanță din SUA, Marea Britanie, Russia, Italia,
-Franta, s.a.
+Franța, s.a.
 
 Montenegro – ilegal.
 
@@ -173,13 +173,13 @@ copii homeschooleri.
 Spania – ilegal. Circa 2000 familii.
 
 SUA – legal. Circa 4 milione de homeschooleri din datele statistice oficiale,
-dar se crede ca sînt mult mai multi.
+dar se crede că sînt mult mai mulți.
 
-Suedia – ilegal. Scoala este obligatorie de la 7 ani. In 2009 circa 50 de
-familii au emigrat din cauza restricțiilor legale. Actual se presupune ca in
+Suedia – ilegal. Școala este obligatorie de la 7 ani. In 2009 circa 50 de
+familii au emigrat din cauza restricțiilor legale. Actual se presupune că în
 jurul la 200 de familii fac homeschooling semi-legal.
 
-Taiwan – legal. A fost recunoscut homeschoolingul din 1982 si reglementat din
+Taiwan – legal. A fost recunoscut homeschoolingul din 1982 și reglementat din
 1997.
 
 Thailanda – legal din 1992.
