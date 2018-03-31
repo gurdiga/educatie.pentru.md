@@ -4,7 +4,7 @@ Fiecare copil asimilează cunoștințele în ritmul și maniera proprie, de acee
 unii părinții preferă să aleagă alte forme de educație, după un program
 individual, care ține cont de necesitățile particulare ale copilului.
 
-În Republica Moldova alegerea formei de educație al propriul copil este dreptul
+În Republica Moldova alegerea formei de educație al propriului copil este dreptul
 si obligația părinților, inclusiv și educația in familie; vedeți pagina
 [„Legislatie”](/legislatie) pentru detalii.
 
