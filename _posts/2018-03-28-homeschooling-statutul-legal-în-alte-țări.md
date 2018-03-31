@@ -8,7 +8,7 @@ author: Diana
 Am colectat aici informații sumare despre statutul legal pentru homescooling în
 diferite alte țări:
 
-Albania – ilegal.
+Albania – legal din 2012.
 
 Africa de Sud – legal din 1996. Actual datele se contrazic, se presupune o cifră
 între 30.000 si 100.000 homeschooleri.
