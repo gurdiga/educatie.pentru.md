@@ -1,8 +1,16 @@
+body {
+  font-family: Alegreya, serif;
+  font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6, .site-title, .site-nav {
+  font-weight: bold;
+}
+
 blockquote {
   letter-spacing: 0;
   font-style: normal;
   font-size: inherit;
-  font-family: Georgia, serif;
 }
 
 .post-content h2,
