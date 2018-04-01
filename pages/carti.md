@@ -12,6 +12,11 @@ description: O listă de cărți despre educația alternativă.
 ### John Holt
 
 * [How Children Learn (Classics in Child Development)](https://www.goodreads.com/book/show/573003)
+  * În română: „Cum învață copiii”
+    \[[elefant.md](http://www.elefant.md/carti/carti-de-specialitate/stiinte-umaniste/psihologie/cum-invata-copiii-71127.html)
+    • [librarius](http://librarius.md/ro/book/cum-invata-copiii--461353)
+    • [trei](http://www.edituratrei.ro/carte/john-holt-cum-invata-copiii/2852/)
+    • [cartepedia](http://www.edituratrei.ro/carte/john-holt-cum-invata-copiii/2852/)]
   * На русском: «Залог детских успехов»
     \[[отзыв](http://ps.1september.ru/article.php?ID=200205002)
     • [PDF]({{"assets/books/John-Holt-How-Children-Learn-Russian.pdf" | relative_url }})
@@ -31,11 +36,18 @@ description: O listă de cărți despre educația alternativă.
 
 * [Weapons of Mass Instruction](https://www.goodreads.com/book/show/3429724)
 * [Dumbing Us Down](https://www.goodreads.com/book/show/225850)
+  * На русском: «Фабрика марионеток. Исповедь школьного учителя»
+    \[[отзыв](http://www.koob.ru/gatto/dumbing_us_down)
+    • [PDF](https://little.com.ua/media/files/1396022327-fabrika-marionetok.pdf)
+    • [online](https://www.litmir.me/br/?b=101825)
+    • [Лабиринт](https://www.labirint.ru/books/112619/)]
 * [The Exhausted School](https://www.goodreads.com/book/show/1004170)
 
 ### Ivan Illich (Иллич Иван)
 
 * [Deschooling Society](https://www.goodreads.com/book/show/223403)
+  * În română: „Pentru a deşcolariza societatea”
+    \[[idea.ro](http://www.idea.ro/editura/ro/pentru-a-decolariza-societatea-d171.html)]
   * На русском: «Освобождение от школ»
     \[[online](https://eusi.ru/lib/illic_osvobogdenie/index.php)
     • [PDF](https://bojidarivkov.files.wordpress.com/2012/11/illich_ivan-osvobojdenie_ot_schkol.pdf)
@@ -56,6 +68,7 @@ description: O listă de cărți despre educația alternativă.
 ### Jan Hunt
 
 * [The Natural Child: Parenting from the Heart](https://www.goodreads.com/book/show/705046)
+  \[[website](http://www.naturalchild.org/)]
 
 ### James Marcus Bach
 
@@ -82,3 +95,5 @@ Children and Parenting](https://www.goodreads.com/book/show/25489083)
 * [Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's,
 Praise and Other Bribes](https://www.goodreads.com/book/show/541132)
 * [Unconditional Parenting: Moving from Rewards and Punishments to Love and Reason](https://www.goodreads.com/book/show/111209)
+  * На русском: «Безусловные родители»
+    \[[online](https://yadi.sk/d/TqBPzTPLGgcPD)]
