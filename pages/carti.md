@@ -80,7 +80,7 @@ can Lead to a Lifetime of Success](https://www.goodreads.com/book/show/6285746)
 * [Hold On to Your Kids: Why Parents Need to Matter More Than
 Peers](https://www.goodreads.com/book/show/106744)
   * În română: „Cum sa ne pastram copiii aproape”
-    \[[librarius.md](http://librarius.md/ro/book/cum-sa-ne-pastram-copiii-aproape-529768)
+    \[[librarius](http://librarius.md/ro/book/cum-sa-ne-pastram-copiii-aproape-529768)
     • [ivi.md](https://ivi.md/carti/cum-sa-ne-pastram-copiii-aproape-de-ce-parintii-trebuie-sa-fie-mai-importanti-decat-prietenii)
     • [shop.totuldespremame.ro](http://shop.totuldespremame.ro/produs/cum-sa-ne-pastram-copiii-aproape/)
     • [librarie.net](http://www.librarie.net/p/289760/)]
@@ -94,6 +94,19 @@ Peers](https://www.goodreads.com/book/show/106744)
 Children and Parenting](https://www.goodreads.com/book/show/25489083)
 * [Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's,
 Praise and Other Bribes](https://www.goodreads.com/book/show/541132)
+  * În română: „Pedepsiți prin recompense”
+    \[[review](http://www.totuldespremame.ro/copilul-tau/psihologie-si-comportament/pedepsit-de-recompense)
+    • [interviu](http://adevarul.ro/life-style/parinti/1_571d1fa85ab6550cb84f8e46)
+    • [tdm](http://shop.totuldespremame.ro/produs/pedepsiti-prin-recompense/)]
+
+
 * [Unconditional Parenting: Moving from Rewards and Punishments to Love and Reason](https://www.goodreads.com/book/show/111209)
+  * În româna: „Parenting necondiționat”
+    \[[review](http://unica.md/mama-si-copilul/dezvoltarea-copilului/un-psiholog-desfiinteaza-mitul-temei-pentru-acasa-de-ce-temele-fac-mai-mult-rau-decat-bine/)
+    • [librarius](http://librarius.md/ro/book/parenting-neconditionat-538964)
+    • [libris](https://libris.md/carti/parenting-neconditionat-47106)
+    ]
   * На русском: «Безусловные родители»
-    \[[online](https://yadi.sk/d/TqBPzTPLGgcPD)]
+    \[[online](https://yadi.sk/d/TqBPzTPLGgcPD)
+    • [PDF](http://metodich.ru/8192/index.html)
+    ]
