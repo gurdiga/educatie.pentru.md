@@ -4,16 +4,22 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-          <a href="https://www.facebook.com/homeschoolingmoldova/"><img src="{{ '/assets/images/FB-f-Logo__blue_29.png' | relative_url }}"></a>
-          &bullet; <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
-          &bullet; <a href="{{ "/feed.xml" | relative_url }}">RSS</a>
-        </ul>
+      <div class="footer-col footer-col-3">
 
-      </div>
+        {%- include facebook_sdk.html -%}
+        <div class="fb-page"
+             data-href="https://www.facebook.com/homeschoolingmoldova/"
+             data-small-header="false"
+             data-adapt-container-width="true"
+             data-hide-cover="false"
+             data-show-facepile="true">
 
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
+          <blockquote cite="https://www.facebook.com/homeschoolingmoldova/" class="fb-xfbml-parse-ignore">
+            <a href="https://www.facebook.com/homeschoolingmoldova/">Homeschooling Moldova</a>
+          </blockquote>
+
+        </div>
+
       </div>
 
       <div class="footer-col footer-col-3">
