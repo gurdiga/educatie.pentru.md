@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 permalink: blog
-order: 4
+order: 1
 description: Articole despre educația alternativă in Republica Moldova
 ---
 
