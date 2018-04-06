@@ -95,7 +95,9 @@ La 28.07.1990 RM [a aderat](http://lex.justice.md/md/306843/) la [Declarația Un
 
 > „Neîndeplinirea sau îndeplinirea necorespunzătoare de către părinţi sau de către persoanele care îi înlocuiesc a obligaţiilor de întreţinere, de educare şi de instruire a copilului se sancţionează cu amendă de la 5 la 20 de unităţi convenţionale.”
 
-Cu toate că nu reprezintă un element decisiv în cadrul metodelor alternative de educație, e bine de știut despre existența lui.
+Cu toate că nu reprezintă un element decisiv în cadrul metodelor alternative de
+educație, e bine de știut despre existența lui ([vedeti articolul despre un caz
+real]({% post_url 2018-04-06-homeschooling-legal-in-republica-moldova %})).
 
 ## Notă
 
