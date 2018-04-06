@@ -8,8 +8,9 @@ referenced_from: pages/legislatie.md
 
 Dintr-un [articol
 publicat](https://hslda.org/hs/international/moldova/201311170.asp) pe site-ul
-HSLDA, am aflat de unul dintre cazurile dificilie, dar și inspiratoare al unei
-familii din Ștefan Vodă, petrecut în martie 2013.
+HSLDA — Home School Legal Defense Association — am aflat de unul dintre cazurile
+dificilie, dar și inspiratoare al unei familii din Ștefan Vodă, petrecut în
+martie 2013.
 
 Fiind îngrijorați de mai multe lucruri care li se întîmplă copiilor lor la
 școală, și dorindu-și o educație mai bună pentru ei, părinții au decis să
@@ -39,7 +40,9 @@ La baza deciziei procurorului stau pe de o parte referințe din legislație:
 2. Articolul 60 al Legii învățămîntului
 
 și, pe de altă parte, dovada înmatriculării copiilor la o școală privată
-—  certificatul de la Home Life Academy.
+—  certificatul de la Home Life Academy. De asemenea, [conform spuselor tatălui
+din familia menționată](https://moldovacrestina.md/pasi-pentru-educarea-copiilor-acasa-in-republica-moldova/),
+a fost de ajutor și scrisoarea de la HSLDA.
 
 În concluzie, chiar dacă autoritățile școlii, poliția, și funcționarii publici
 pot obiecta, totuși **legislația Republicii Moldova permite educația în
