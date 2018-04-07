@@ -10,5 +10,5 @@ description: Întrebări frecvente despre educatie alternativă
 * [Ce înseamnă educație alternativă (în familie, la domiciliu, individuală,
 homeschooling, unschooling)?](/educatie-alternativa)
 
-Dacă nu ați găsit întrebarea care ați căutat-o, scrieți-ne la
+Dacă nu ați găsit întrebarea sau răspunsul pe care l-ați căutat, scrieți-ne la
 [educatie@pentru.md](mailto:educatie@pentru.md).
