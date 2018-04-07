@@ -7,3 +7,5 @@ description: Întrebări frecvente despre educatie alternativă
 ---
 
 * [Cum socializează copii educați în familie?](/socializare)
+* [Ce înseamnă educație alternativă (în familie, la domiciliu, individuală,
+homeschooling, unschooling)?](/educatie-alternativa)
