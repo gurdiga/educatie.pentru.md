@@ -4,7 +4,7 @@ SERVER_PORT=4005
 build: bundler
 	bundle exec jekyll build
 
-start: bundler
+start: bundler build
 	bundle exec jekyll serve --host $(SERVER_IP) --port $(SERVER_PORT)
 
 post: bundler
