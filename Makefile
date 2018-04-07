@@ -4,6 +4,11 @@ SERVER_PORT=4005
 build: bundler
 	bundle exec jekyll build
 
+test:
+	@wget --mirror --output-document=mirror --quiet http://$(SERVER_IP):$(SERVER_PORT) \
+		|| ( rm -f mirror; exit 1 ) \
+		&& rm mirror
+
 start: bundler build
 	bundle exec jekyll serve --host $(SERVER_IP) --port $(SERVER_PORT)
 
