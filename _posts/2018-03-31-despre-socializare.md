@@ -3,7 +3,6 @@ layout: post
 title: Despre socializare
 date: 2018-03-31 12:08 +0300
 author: Diana
-also_in: FAQ
 ---
 
 Socializarea copiilor care studiază acasă, întradevăr, este foarte diferită de

@@ -9,7 +9,7 @@ test:
 		|| ( rm -f mirror; exit 1 ) \
 		&& rm mirror
 
-start: bundler build
+start: bundler
 	bundle exec jekyll serve --host $(SERVER_IP) --port $(SERVER_PORT)
 
 post: bundler
