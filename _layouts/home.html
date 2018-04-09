@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   <h2 class="post-list-heading">Articole recente</h2>
-  {%- assign most_recent_posts = site.posts | slice: 0, 5 -%}
+  {%- assign most_recent_posts = site.posts | slice: 0, 3 -%}
   {% include post_list.html posts=most_recent_posts %}
 
   <p>Vedeți arhiva de articole pe <a href="{{ "/blog" | relative_url }}">Blog</a>.</p>
