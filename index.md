@@ -13,7 +13,7 @@ individual, care ține cont de necesitățile particulare ale copilului.
 si obligația părinților, inclusiv și educația in familie; vedeți pagina
 [„Legislatie”](/legislatie) pentru detalii.
 
-Cele mai cunoscute forme de educație alternativă sint „homeschooling”,
+Cele mai cunoscute forme de educație alternativă sint „homeschooling” și
 „unschooling”, care se bazează pe invățarea naturală și liberă, în forma de
 joacă și explorare activă, respectînd personalitatea și necesitățile copilului.
 
