@@ -11,6 +11,7 @@ description: Întrebări frecvente despre educatie alternativă
 homeschooling, unschooling)?](/educatie-alternativa)
 * [Este societatea din Moldova pregatita pentru
 homeschooling/unschooling?](/vom-fi-gata-peste-50-de-ani)
+* [Este legal sa faci Homeschooling in Republica Moldova?](/homeschoolingul-este-legal)
 
 Dacă nu ați găsit întrebarea sau răspunsul pe care l-ați căutat, scrieți-ne la
 [educatie@pentru.md](mailto:educatie@pentru.md).
