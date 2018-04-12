@@ -8,7 +8,7 @@ author: Diana CHICU
 Cel mai important beneficiu pe care îl aduce educația alternativă este reunirea
 propriei familii. Familiile care aleg să meargă pe acest drum petrec mult timp
 împreună: jocuri, cercetări, excursii, primblări, adică, pur și simplu trăiesc
-viața așa cum este și din plin. Ei au posibilitate de a atinge o înțelegere
+viața așa cum este, și din plin. Ei au posibilitate de a atinge o înțelegere
 reciprocă profundă, care este dificil de obținut când fiecare membru al familiei
 si află în afară casei cea mai mare parte a zilei.
 
