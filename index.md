@@ -5,6 +5,7 @@
 layout: home
 ---
 
+<a href="/ru" lang="ru" class="translation-link">Русская версия… →</a> 
 Fiecare copil asimilează cunoștințele în ritmul și maniera proprie, de aceea
 unii părinții preferă să aleagă alte forme de educație, după un program
 individual, care ține cont de necesitățile particulare ale copilului.
