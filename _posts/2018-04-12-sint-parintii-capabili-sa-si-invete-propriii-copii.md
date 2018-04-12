@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sînt părinții capabili să-şi învețe proprii copii?
+title: Sînt părinții capabili să-şi învețe propriii copii?
 date: 2018-04-12 20:20 +0300
 author: Diana CHICU
 ---
@@ -12,7 +12,7 @@ eduactia acasă este veche de când lumea și familia era responsabilă de studi
 copiilor. Statul a început să se implice în acest proces odată cu Revoluția
 Industrială.
 
-În ziua de azi, majoritatea sînt convinși că pentru a învăța proprii copii,
+În ziua de azi, majoritatea sînt convinși că pentru a învăța propriii copii,
 trebuie să ai ani de pregătire pedagogică, să treci peste un număr infinit de
 teste și examene, care de fapt nu sînt în stare de a identifica și evalua
 obiectiv talentul și capacitatea pedagogică. Acest proces crează doar persoane
