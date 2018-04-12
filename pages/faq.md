@@ -13,6 +13,7 @@ homeschooling, unschooling)?](/educatie-alternativa)
 homeschooling/unschooling?](/vom-fi-gata-peste-50-de-ani)
 * [Este legal sa faci Homeschooling in Republica Moldova?](/homeschoolingul-este-legal)
 * [Care sunt beneficiile educației alternative în familie?](/beneficii)
+* [Sînt părinții capabili să-şi învețe proprii copii?](/parintii-isi-pot-educa-copiii)
 
 Dacă nu ați găsit întrebarea sau răspunsul pe care l-ați căutat, scrieți-ne la
 [educatie@pentru.md](mailto:educatie@pentru.md).
