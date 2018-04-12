@@ -2,7 +2,7 @@
 layout: post
 title: Este legal sa faci Homeschooling in Republica Moldova?
 date: 2018-04-10 09:51 +0300
-author: Diana
+author: Diana CHICU
 ---
 
 Da, educația în familie în RM este legală! Instruirea in familie ai propriilor

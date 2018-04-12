@@ -2,7 +2,7 @@
 layout: post
 title: 'Homeschooling: statutul legal în alte țări'
 date: 2018-03-28 09:34 +0300
-author: Diana
+author: Diana CHICU
 ---
 
 Am colectat aici informații sumare despre statutul legal pentru homescooling în

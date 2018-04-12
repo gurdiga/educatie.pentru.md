@@ -2,7 +2,7 @@
 layout: post
 title: Care sunt beneficiile educației alternative în familie?
 date: 2018-04-12 11:33 +0300
-author: Diana
+author: Diana CHICU
 ---
 
 Cel mai important beneficiu pe care îl aduce educația alternativă este reunirea

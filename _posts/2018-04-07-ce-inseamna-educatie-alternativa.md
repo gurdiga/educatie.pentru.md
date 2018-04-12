@@ -2,7 +2,7 @@
 layout: post
 title: Ce înseamnă educație alternativă (în familie, la domiciliu, individuală, homeschooling, unschooling)?
 date: 2018-04-07 12:16 +0300
-author: Diana
+author: Diana CHICU
 ---
 
 Pentru a asigura instruirea obligatorie, familiile pot alege alte forme de
