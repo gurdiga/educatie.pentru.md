@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ
+inpage_title: Întrebări frecvente
 permalink: faq
 order: 5
 description: Întrebări frecvente despre educatie alternativă
