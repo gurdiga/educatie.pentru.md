@@ -15,6 +15,7 @@ homeschooling/unschooling?](/vom-fi-gata-peste-50-de-ani)
 * [Care sunt beneficiile educației alternative în familie?](/beneficii)
 * [Sînt părinții capabili să-şi învețe proprii copii?](/parintii-isi-pot-educa-copiii)
 * [Ce forme de educație alternativă există?](/forme)
+* [De unde învățăm cum să facem homeschooling?](/de-unde-invatam)
 
 Dacă nu ați găsit întrebarea sau răspunsul pe care l-ați căutat, scrieți-ne la
 [educatie@pentru.md](mailto:educatie@pentru.md).
