@@ -6,6 +6,7 @@ order: 2
 description: Mențiuni ale legislația RM cu privire la educația alternativă
 ---
 
+<a href="/законодательство" lang="ru" class="translation-link">Русская версия… →</a>
 * Cuprins
 {:toc}
 

@@ -31,6 +31,10 @@ h2.post-list-heading {
     content: "Cuprins:";
   }
 
+  html[lang="ru"] &::before {
+    content: "Содержание:";
+  }
+
   li {
     margin-left: 0.5em;
   }
