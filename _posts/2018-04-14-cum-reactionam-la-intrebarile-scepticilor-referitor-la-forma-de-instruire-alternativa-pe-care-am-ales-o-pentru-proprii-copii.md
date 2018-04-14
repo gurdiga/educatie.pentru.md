@@ -3,6 +3,7 @@ layout: post
 title: Cum reacționam la întrebările scepticilor referitor la forma de instruire alternativa
   pe care am ales-o pentru propriii copii?
 date: 2018-04-14 17:07 +0300
+author: Diana CHICU
 ---
 
 Vă asigur, 90% din cei care vă înconjoară, nu știu nimic despre homeschooling,
