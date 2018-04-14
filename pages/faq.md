@@ -17,6 +17,7 @@ homeschooling/unschooling?](/vom-fi-gata-peste-50-de-ani)
 * [Sînt părinții capabili să-şi învețe proprii copii?](/parintii-isi-pot-educa-copiii)
 * [Ce forme de educație alternativă există?](/forme)
 * [De unde învățăm cum să facem homeschooling?](/de-unde-invatam)
+* [Cum reacționam la întrebările scepticilor referitor la forma de instruire alternativa pe care am ales-o pentru propriii copii?](/cum-raspundem)
 
 Dacă nu ați găsit întrebarea sau răspunsul pe care l-ați căutat, scrieți-ne la
 [educatie@pentru.md](mailto:educatie@pentru.md).
