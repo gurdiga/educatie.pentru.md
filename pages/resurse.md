@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Cărți
-permalink: carti
+title: Resurse
+permalink: resurse
 order: 3
-description: O listă de cărți despre educația alternativă.
+description: O listă de resurse despre educația alternativă.
 ---
 
 * Cuprins
 {:toc}
+
+## Cărți
 
 ### John Holt
 
@@ -110,3 +112,29 @@ Praise and Other Bribes](https://www.goodreads.com/book/show/541132)
     \[[online](https://yadi.sk/d/TqBPzTPLGgcPD)
     • [PDF](http://metodich.ru/8192/index.html)
     ]
+
+## Link-uri utile
+
+### Organizații
+
+* [Home School Legal Defense Association (HSLDA)](http://www.hslda.org/)
+— Organizație internațională care oferă suport legal pentru homeschooleri.
+* [Asociatia Home Scooling Romania](http://www.homeschooling.ro/)
+* [Covenant Home](http://www.covenanthome.com/)
+* [The HomeSchool Channel](http://homeschool.crosswalk.com/)
+* [National Home Education Research Institute](http://www.nheri.org/)
+
+### Informații și sfaturi practice
+
+* [The Teaching Home](http://www.teachinghome.com/)
+* [Practical Homeschooling](http://www.home-school.com/)
+* [Homeschooling Today](http://www.homeschooltoday.com/)
+* [Home School Digest](http://www.homeschooldigest.com/)
+* [National Christian Forensics and Communications Association](http://www.ncfca.org/)
+* [TeenPact](http://www.teenpact.com/)
+* [Sandra Dodd](http://sandradodd.com/unschooling) — Mamă unschooler, autor de
+articole, cărți, și prezentări tematice.
+* [Pam Laricchia](http://livingjoyfully.ca/) — Mamă unschooler, autor de
+articole, cărți, podcast, și prezentări tematice.
+* [Amy Childs](http://amychilds.com/) — Mamă unschooler, consultant, autor de
+articole, și podcast tematic.
