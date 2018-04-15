@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: ru
-description: "На русском: O listă de cărți despre educația alternativă."
+description: Информация о хоумскулинге в Молдове
 lang: ru
 ---
 
