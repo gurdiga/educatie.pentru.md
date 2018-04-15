@@ -155,3 +155,10 @@ Alte cărți tematice de această autoare găsiți [pe pagina de la GoodReads](h
 [podcast](http://livingjoyfully.ca/podcast-2/), și prezentări tematice.
 * [Amy Childs](http://amychilds.com/) — Mamă unschooler, consultant, autor de
 articole, și podcast tematic.
+
+### Școli online
+
+* [Home Life Academy](http://www.homelifeacademy.com/) — Școală care oferă
+posibilitatea înregistrării la distanță, chiar și a copiilor din Moldova. Oferă
+consultanță părinților și copiilor, programe de studii și sfaturi practice.
+Eliberează certificat de înmatriculare.
