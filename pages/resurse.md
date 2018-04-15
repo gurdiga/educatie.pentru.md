@@ -113,6 +113,20 @@ Praise and Other Bribes](https://www.goodreads.com/book/show/541132)
     • [PDF](http://metodich.ru/8192/index.html)
     ]
 
+### Pam Laricchia
+
+* [What is Unschooling?](https://www.goodreads.com/book/show/33295664-what-is-unschooling)
+\[[free download](http://livingjoyfully.ca/what-is-unschooling/)] — Introducere
+în unschooling (în engleză).
+
+Alte cărți tematice de această autoare găsiți [pe pagina de la GoodReads](https://www.goodreads.com/author/show/5807562.Pam_Laricchia).
+
+### Sandra Dodd
+
+* [Big Book of Unschooling](https://www.goodreads.com/book/show/7202546-sandra-dodd-s-big-book-of-unschooling)
+
+Alte cărți tematice de această autoare găsiți [pe pagina de la GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
+
 ## Link-uri utile
 
 ### Organizații
@@ -132,9 +146,12 @@ Praise and Other Bribes](https://www.goodreads.com/book/show/541132)
 * [Home School Digest](http://www.homeschooldigest.com/)
 * [National Christian Forensics and Communications Association](http://www.ncfca.org/)
 * [TeenPact](http://www.teenpact.com/)
-* [Sandra Dodd](http://sandradodd.com/unschooling) — Mamă unschooler, autor de
-articole, cărți, și prezentări tematice.
+* [Sandra Dodd](http://sandradodd.com/) — Mamă unschooler, autor de
+[articole](http://sandradodd.com/unschooling), [cărți](http://sandradodd.com/bigbook/), și
+[prezentări](http://sandradodd.com/listen/) tematice.
 * [Pam Laricchia](http://livingjoyfully.ca/) — Mamă unschooler, autor de
-articole, cărți, podcast, și prezentări tematice.
+[articole](http://livingjoyfully.ca/blog/),
+[cărți](https://www.goodreads.com/author/show/5807562.Pam_Laricchia),
+[podcast](http://livingjoyfully.ca/podcast-2/), și prezentări tematice.
 * [Amy Childs](http://amychilds.com/) — Mamă unschooler, consultant, autor de
 articole, și podcast tematic.
