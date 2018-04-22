@@ -3,10 +3,16 @@ layout: post
 title: Care sînt pașii pentru educarea copiilor acasă în Republica Moldova? 
 date: 2018-04-22 13:09 +0300
 author: Diana CHICU
+excerpt_separator: <!-- excerpt -->
 ---
+
+> **Notă:** Acest articolul a fost inițial publicat de Vitalie Bugaian la 08.03.2014
+> [aici](https://moldovacrestina.md/pasi-pentru-educarea-copiilor-acasa-in-republica-moldova/).
 
 Pașii de mai jos vă vor ajuta să porniți pe acest drum nou și neexplorat în țara
 noastră care este educația acasă.
+
+<!-- excerpt -->
 
 1) Documentarea și informarea personală – pentru a porni undeva este necesar să
 cunoști costurile, pericolele, avantajele și să decizi dacă pornești sau nu.
@@ -59,6 +65,3 @@ confirmare a înscrierii la studii. Ea poate fi una electronică/email sau fax,
 dacă autoritățile nu o acceptă atunci cereți una cu apostilă și notariată pentru
 a o prezenta autorităților. Noi le-am prezentat una simplă pînă a ajuns cea cu
 apostilă pe care am tradus-o și legalizat-o în Moldova...”
-
-> **Notă:** Acest articolul a fost inițial publicat de Vitalie Bugaian la 08.03.2014
-> [aici](https://moldovacrestina.md/pasi-pentru-educarea-copiilor-acasa-in-republica-moldova/).
