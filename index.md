@@ -5,13 +5,13 @@
 layout: home
 ---
 
-<a href="/ru" lang="ru" class="translation-link">Русская версия… →</a> 
+<a href="/ru" lang="ru" class="translation-link">Русская версия… →</a>
 Fiecare copil asimilează cunoștințele în ritmul și maniera proprie, de aceea
 unii părinții preferă să aleagă alte forme de educație, după un program
 individual, care ține cont de necesitățile particulare ale copilului.
 
 În Republica Moldova alegerea formei de educație al propriului copil este dreptul
-si obligația părinților, inclusiv și educația in familie; vedeți pagina
+și obligația părinților, inclusiv și educația in familie; vedeți pagina
 [„Legislatie”](/legislatie) pentru detalii.
 
 Cele mai cunoscute forme de educație alternativă sint „homeschooling” și
