@@ -6,7 +6,6 @@ order: 2
 description: Mențiuni ale legislația RM cu privire la educația alternativă
 ---
 
-<a href="/законодательство" lang="ru" class="translation-link">Русская версия… →</a>
 * Cuprins
 {:toc}
 
@@ -158,3 +157,5 @@ real]({% post_url 2018-04-06-homeschooling-legal-in-republica-moldova %})).
 
 Dacă cunoașteți alte acte legislative relevante, [scrieți-ne la adresa
 educatie@pentru.md](mailto:educatie@pentru.md).
+
+<a href="/законодательство" lang="ru" class="translation-link">Русская версия… →</a>

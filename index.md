@@ -5,7 +5,6 @@
 layout: home
 ---
 
-<a href="/ru" lang="ru" class="translation-link">Русская версия… →</a>
 Fiecare copil asimilează cunoștințele în ritmul și maniera proprie, de aceea
 unii părinți preferă să aleagă alte forme de educație, după un program
 individual, care ține cont de necesitățile particulare ale copilului.
@@ -21,3 +20,5 @@ joacă și explorare activă, respectînd personalitatea și necesitățile copi
 Daca sunteți în căutare de răspunsuri, atunci bine ați venit pe pagina noastră:
 aici veți găsi articole, informații despre legislație, literatură utilă,
 evenimente, ș.a.
+
+<a href="/ru" lang="ru" class="translation-link">Русская версия… →</a>

@@ -6,7 +6,6 @@ author: Diana CHICU
 excerpt_separator: <!-- excerpt -->
 ---
 
-<a href="{% post_url 2018-04-20-готово-ли-общество-молдовы-принять-альтернативные-формы-обучения %}" lang="ru" class="translation-link">Русская версия… →</a>
 Definiție:
 
 > O societate (umană) reprezintă un grup de persoane între care se
@@ -59,3 +58,5 @@ Australia. Și doar în ultimii 10 ani mai intens și în restul țărilor din l
 
 Și apare o nouă întrebare, sînteți gata să așteptați 50 ani pînă cînd societatea
 din Republica Moldova va fi pregătită să accepte homeschoolingul ca pe o normă?
+
+<a href="{% post_url 2018-04-20-готово-ли-общество-молдовы-принять-альтернативные-формы-обучения %}" lang="ru" class="translation-link">Русская версия… →</a>

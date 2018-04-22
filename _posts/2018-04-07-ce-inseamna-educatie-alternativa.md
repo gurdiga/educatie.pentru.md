@@ -5,7 +5,6 @@ date: 2018-04-07 12:16 +0300
 author: Diana CHICU
 ---
 
-<a href="{% post_url 2018-04-18-что-такое-альтернативное-образование %}" lang="ru" class="translation-link">Русская версия… →</a>
 Pentru a asigura instruirea obligatorie, familiile pot alege alte forme de
 educarea a propriilor copii, prin diferite metode: personal, autodidact, cursuri
 si scoli online, angajarea profesorilor, în grup, ș.a.
@@ -36,4 +35,4 @@ familii! Experimentați! Alegerea vă aparține!
 * Procesul educațional se desfășoară oriunde doresc părinții sau copii.
 * Copiii au libertate să participe la activități sportive, culturale, creative, s.a.
 
-На русском: [«Анскулинг»](https://ru.wikipedia.org/wiki/Анскулинг)
+<a href="{% post_url 2018-04-18-что-такое-альтернативное-образование %}" lang="ru" class="translation-link">Русская версия… →</a>

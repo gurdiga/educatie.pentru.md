@@ -5,7 +5,6 @@ date: 2018-03-31 12:08 +0300
 author: Diana CHICU
 ---
 
-<a href="{% post_url 2018-04-14-а-как-же-социализация %}" lang="ru" class="translation-link">Русская версия… →</a>
 Socializarea copiilor care studiază acasă, întradevăr, este foarte diferită de
 a celor care merg la școală. Primii iși petrec ziua activ, și anume, ajută
 parinții în casă, îndeplinesc unele activități cotidiene, merg în excursii și în
@@ -48,3 +47,5 @@ care cu siguranță nu pot să inlocuiască rolul părinților.
 Prin homeschooling părinții iși reasumă această responsabiliate fundamentală
 pentru binele psihic și fizic al propriilor copii și, astefel pentru întreaga
 societate.
+
+<a href="{% post_url 2018-04-14-а-как-же-социализация %}" lang="ru" class="translation-link">Русская версия… →</a>

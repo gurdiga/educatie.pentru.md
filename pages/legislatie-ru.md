@@ -8,8 +8,6 @@ lang: ru
 hide_in_nav: true
 ---
 
-
-<a href="/legislatie" lang="ro" class="translation-link">Varianta română… →</a>
 * Cuprins
 {:toc}
 
@@ -125,3 +123,5 @@ hide_in_nav: true
 
 Если вы знаете о других соответствующих законах, пожалуйста напишите нам на
 [educatie@pentru.md](mailto:educatie@pentru.md).
+
+<a href="/legislatie" lang="ro" class="translation-link">Varianta română… →</a>
