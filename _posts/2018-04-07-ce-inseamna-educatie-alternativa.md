@@ -9,7 +9,7 @@ Pentru a asigura instruirea obligatorie, familiile pot alege alte forme de
 educarea a propriilor copii, prin diferite metode: personal, autodidact, cursuri
 si scoli online, angajarea profesorilor, în grup, ș.a.
 
-Nu existî șabloane sau reguli cum „ar trebui” sa fie educarea în familie, de aceea
+Nu există șabloane sau reguli cum „ar trebui” sa fie educarea în familie, de aceea
 parinții care practică educația alternativă, au libertatea să aleagă metoda care
 se potrivește cel mai bine copiilor lor.
 

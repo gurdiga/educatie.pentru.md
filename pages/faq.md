@@ -19,6 +19,7 @@ homeschooling/unschooling?](/vom-fi-gata-peste-50-de-ani)
 * [De unde învățăm cum să facem homeschooling?](/de-unde-invatam)
 * [Cum reacționam la întrebările scepticilor referitor la forma de instruire alternativa pe care am ales-o pentru propriii copii?](/cum-raspundem)
 * [Care sînt pașii pentru educarea copiilor acasă în Republica Moldova?](/pasi)
+* [Cum creștem copiii de sine stătători?](/cum)
 
 Dacă nu ați găsit întrebarea sau răspunsul pe care l-ați căutat, scrieți-ne la
 [educatie@pentru.md](mailto:educatie@pentru.md).
