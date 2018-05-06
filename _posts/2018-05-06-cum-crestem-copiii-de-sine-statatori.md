@@ -124,10 +124,10 @@ care are la bază două principii:
 
 ### Bunăstarea fizică și psihică a copilului
 
-Pentru noi ca părinți, asta este oricînd absolut evident că bunăstarea fizică și
-psihică a copilului sunt pe primul loc: dacă lipsește măcar una din astea,
-atunci nimic altceva nu mai e important — reușita școlară, aranjamentul părului,
-starea încălțămintei, sau problema de dicție.
+Pentru noi ca părinți, asta este absolut evident că bunăstarea fizică și psihică
+a copilului sunt pe primul loc: dacă lipsește măcar una din astea, atunci nimic
+altceva nu mai e important — reușita școlară, aranjamentul părului, starea
+încălțămintei, sau problema de dicție.
 
 ### Relația umană între părinte și copil
 
