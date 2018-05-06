@@ -111,8 +111,8 @@ La școala se folosesc mecanisme similare de „disciplinare”, cu diferența c
 contrîngerile sunt mai variate și mai puternice: steluțe, note, diplome — care
 sunt oferite sau sunt refuzate în măsura în care elevul îndeplinește cerințele
 și urmează instrucțiunile. Înteresele și dorințele proprii nu sunt luate în
-calcul, ceea ce, de-a lungul la 10 ani de școală, duce și mai mult la stingerea
-totală a impulsului interior de a gîndi, crea, și planifica.
+calcul, ceea ce, de-a lungul la 10 ani de școală, duce la stingerea totală
+a impulsului interior de a gîndi, crea, și planifica.
 
 ## O alternativă
 
