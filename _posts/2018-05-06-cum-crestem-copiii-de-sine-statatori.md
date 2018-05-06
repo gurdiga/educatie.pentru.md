@@ -103,10 +103,9 @@ lungul zilei.
 Dar, cu suficiente constrîngeri din partea educatoarei, copiii ajung să se
 supună, tendințele lor naturale de a fi desine stătători se sting treptat, și
 copilul „stă cuminte” și „e ascultător”, adică nu vorbește și nu mișcă fără
-permisiune, sau fără să i-o ceară un adult. Chiar dacă pe termen scurt, asta
-duce la mai puțin efort pentru educator și părinte, prin aceea că
-„disciplinează” copiii, pe termen lung asta este evident contraproductiv pentru
-formarea lor ca persoane de sine stătătoare.
+permisiune, sau fără să i-o ceară un adult. Chiar dacă asta duce la mai puțin
+efort pentru educator și părinte, această „disciplinare” a copiilor este evident
+un lucru contraproductiv pentru formarea lor ca persoane de sine stătătoare.
 
 La școala se folosesc mecanisme similare de „disciplinare”, cu diferența că
 contrîngerile sunt mai variate și mai puternice: steluțe, note, diplome — care
