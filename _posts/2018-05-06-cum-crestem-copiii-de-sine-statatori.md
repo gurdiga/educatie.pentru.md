@@ -87,14 +87,14 @@ stimulează creșterea unui copil de sine stătător.
 Modelul obișnuit al unei grupe de grădiniță este așa: 20 de copii și 1 sau
 2 adulți. Adulții încearcă să mențină copiii ocupați cu felurite activități, și
 să le formeze un regim strict: acum toți facem gimnastică, acum toți ne așezăm
-la masă, acum toți învățăm o poezioară sau un cîtecel, acum toți mergem la
+la masă, acum toți învățăm o poezioară sau un cîntecel, acum toți mergem la
 somnul de prînz, acum toții ieșim afară să ne jucăm în nisip, etc.
 
 E modelul care a fost aplicat de-a lungul ultimelor cîteva generații, și e unul
 pe care aproape toată lumea-l consideră drumul normal — primul pas spre
 integrarea în societate. Într-o asemenea stare de lucruri — cînd un singur adult
 trebuie să aibă grijă de 10 copii — regimul strict este evident necesar, pentru
-că un singur fizic n-are cum adult să de atenția necesară fiecărui copil. Și
+că un singur adult **fizic** n-are cum să de atenția necesară fiecărui copil. Și
 asta e trist, pentru că părinții știu că fiecare copil este diferit: are
 interese și preferințe diferite, are ritm diferit de activitate, manieră
 diferită de a înțelege ideile, diferit trece de la o activitate la alta de-a
