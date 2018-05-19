@@ -3,8 +3,13 @@ SERVER_PORT=4005
 SERVER_PID_FILE=.tmp/server.pid
 SERVER_LOG_FILE=.tmp/server.log
 
-build: bundler
+build: ensure-post-author bundler
 	bundle exec jekyll build
+
+ensure-post-author:
+	@grep -Rl '^layout: post$$' | xargs -I{} bash -c "grep -qP '^author: \w+' {} || ( echo 'No author found for {}' && exit 1 )"
+
+pre-commit: build
 
 test: $(SERVER_PID_FILE)
 	@wget --mirror --output-document=mirror --quiet http://$(SERVER_IP):$(SERVER_PORT) \

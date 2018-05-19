@@ -2,7 +2,7 @@
 layout: post
 title: Statistici despre homeschooling
 date: 2018-05-19 11:09 +0300
-autor: Vlad GURDIGA
+author: Vlad GURDIGA
 ---
 Recent Diana mi-a recomandat [un
 articol](https://www.nheri.org/research-facts-on-homeschooling/) de pe pagina
