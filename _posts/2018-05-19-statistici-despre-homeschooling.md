@@ -59,14 +59,14 @@ homeschoolerii:
 
 * participă mai activ în viața socială și politică
 * au mai mult succes la studiile superioare
-* păstrează o relație mai bună cu părinții
+* păstrează o relație mai bună cu familia
 
-## Notă
+## Notă despre statistici
 
-E posibil că educația în familie este cauza plusurilor enumerate anterior, dar
-nu e posibil de dovedit această legătură. În același timp, nu există dovezi că
-educația în familie are efecte negative comparativ cu educația în instituțiile
-școlii.
+E posibil că homeschoolingul este cauza plusurilor enumerate anterior, dar nu
+e posibil de dovedit această legătură. În același timp, nu există dovezi că
+homeschoolingul are efecte negative comparativ cu educația în instituțiile
+școlare.
 
 Articolul original:
 [https://www.nheri.org/research-facts-on-homeschooling/](https://www.nheri.org/research-facts-on-homeschooling/).
