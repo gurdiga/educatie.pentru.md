@@ -35,7 +35,7 @@ fiecărui copil
 * îmbunătățirea relațiilor dintre părinți și copii, și între copii
 * interacțiune ghidată cu alți copii și adulți
 * un mediu mai sigur pentru copii și adolescenți, comparativ cu aspectele
-proplematice tipice din mediul școlilor
+problematice tipice din mediul școlilor
 * posibilitatea de a transmite copiilor și adolescenților sistemul de valori și
 viziunea lumii
 
@@ -58,7 +58,7 @@ tradiționale de învățămînt, persoanele care au fost educate în familie,
 homeschoolerii:
 
 * participă mai activ în viața socială și politică
-* au mai mult succes cînd în studiile superioare
+* au mai mult succes la studiile superioare
 * păstrează o relație mai bună cu părinții
 
 ## Notă
