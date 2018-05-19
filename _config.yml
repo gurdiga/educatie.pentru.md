@@ -48,3 +48,5 @@ show_excerpts: true
 
 jekyll_compose:
   auto_open: true
+
+strict_front_matter: true
