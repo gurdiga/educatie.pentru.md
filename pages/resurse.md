@@ -127,6 +127,14 @@ Alte cărți tematice de această autoare găsiți [pe pagina de la GoodReads](h
 
 Alte cărți tematice de această autoare găsiți [pe pagina de la GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
 
+### A. S. Neill
+
+* [Freedom, Not License!](https://www.goodreads.com/book/show/2048282)
+  \[[online](https://archive.org/details/FreedomNotLicence-A.S.Neill)
+  • [PDF](https://ia800205.us.archive.org/15/items/FreedomNotLicence-A.S.Neill/freedom-neill.pdf)
+  • [Kindle](https://archive.org/download/FreedomNotLicence-A.S.Neill/freedom-neill.mobi)
+  ]
+
 ## Link-uri utile
 
 ### Organizații
