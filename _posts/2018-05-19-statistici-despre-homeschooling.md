@@ -19,7 +19,7 @@ homeschoolerii din Republica Moldova.
 Familiile de homeschooleri sunt din categorii demografice variate:
 * de diferite religii, și ateiști
 * de diferite convingeri politice
-* de diferite pături sociale
+* din diferite pături sociale
 * de diferite etnii și rase
 * cu diferite nivele de studii superioare, și fără studii superioare.
 
