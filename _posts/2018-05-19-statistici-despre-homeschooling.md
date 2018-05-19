@@ -16,7 +16,7 @@ homeschoolerii din Republica Moldova.
 
 ## Demografie
 
-Părinții homeschoolerii sunt din categorii demografice variate:
+Familiile de homeschooleri sunt din categorii demografice variate:
 * de diferite religii, și ateiști
 * de diferite convingeri politice
 * de diferite pături sociale
