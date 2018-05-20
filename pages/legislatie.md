@@ -153,7 +153,7 @@ Cu toate că nu reprezintă un element decisiv în cadrul metodelor alternative 
 educație, e bine de știut despre existența lui ([vedeti articolul despre un caz
 real]({% post_url 2018-04-06-homeschooling-legal-in-republica-moldova %})).
 
-## Notă
+## Notă despre completări și modificări
 
 Dacă cunoașteți alte acte legislative relevante, [scrieți-ne la adresa
 educatie@pentru.md](mailto:educatie@pentru.md).
