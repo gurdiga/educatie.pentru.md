@@ -46,7 +46,7 @@ sau tutorii au dreptul”, la litera d) următoarele:
 > pentru studii, dezvoltare a  aptitudinilor, activitate extraşcolară şi de
 > autoinstruire.”
 
-## Codul Familiei (cod nr. 1316 din  26.10.2000)
+## Codul Familiei (cod Nr. 1316 din  26.10.2000)
 
 [Codul Familiei](http://lex.justice.md/md/286119/) menționează în articolul 60
 „Drepturile şi obligaţiile părinţilor privind educaţia şi instruirea copiilor”
