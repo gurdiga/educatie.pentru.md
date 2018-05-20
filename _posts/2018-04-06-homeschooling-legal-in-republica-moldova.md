@@ -20,7 +20,7 @@ de o parte oferă îndrumare și resurse pentru părinți și copii, și pe de a
 partă [lasă loc](http://www.homelifeacademy.com/testing/) atît pentru explorare
 naturală cît și pentru alte lucruri care școala publică nu le poate asigura, și
 pe care părinții le cred importante pentru copiii lor — ceea ce este de fapt
-esența conceptului de **homeschooling**.
+esența conceptului de _homeschooling_.
 
 Autoritățile școlii au considerat că e ilegal să-ți retragi copiii din școală,
 și au sesizat poliția, care la rîndul lor a sesizat procuratura Ștefan Vodă,
@@ -45,5 +45,5 @@ din familia menționată](https://moldovacrestina.md/pasi-pentru-educarea-copiil
 a fost de ajutor și scrisoarea de la HSLDA.
 
 În concluzie, chiar dacă autoritățile școlii, poliția, și funcționarii publici
-pot obiecta, totuși **legislația Republicii Moldova permite educația în
-familie**.
+pot obiecta, totuși _legislația Republicii Moldova permite educația în
+familie_.

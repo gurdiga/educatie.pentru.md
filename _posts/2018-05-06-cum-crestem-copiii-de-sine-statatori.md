@@ -94,7 +94,7 @@ E modelul care a fost aplicat de-a lungul ultimelor cîteva generații, și e un
 pe care aproape toată lumea-l consideră drumul normal — primul pas spre
 integrarea în societate. Într-o asemenea stare de lucruri — cînd un singur adult
 trebuie să aibă grijă de 10 copii — regimul strict este evident necesar, pentru
-că un singur adult **fizic** n-are cum să de atenția necesară fiecărui copil. Și
+că un singur adult _fizic_ n-are cum să de atenția necesară fiecărui copil. Și
 asta e trist, pentru că părinții știu că fiecare copil este diferit: are
 interese și preferințe diferite, are ritm diferit de activitate, manieră
 diferită de a înțelege ideile, diferit trece de la o activitate la alta de-a
@@ -149,7 +149,7 @@ situația.
 
 ## Încheiere
 
-O persoană de sine stătătoare este înainte de toate o persoană care **poate** fi
+O persoană de sine stătătoare este înainte de toate o persoană care _poate_ fi
 de sine stătătoare, care are are integre mecanismele interioare de gîndire de
 sine stătătoare, și înredere în forțele proprii. Homeschoolingul evită
 deteriorarea acestor mecanisme pe care copilul le primește de la natură, și
