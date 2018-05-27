@@ -177,3 +177,5 @@ Eliberează certificat de înmatriculare.
 acasă](https://moldovacrestina.md/avantajele-si-dezavantajele-educatiei-acasa/)
 * [De ce educație acasă? Creativitatea în școala
 publică](https://moldovacrestina.md/de-ce-educatie-acasa-creativitatea-in-scoala-publica/)
+* [Pași pentru educarea copiilor acasă în Republica
+Moldova](https://moldovacrestina.md/pasi-pentru-educarea-copiilor-acasa-in-republica-moldova/)
