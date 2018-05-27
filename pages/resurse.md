@@ -170,3 +170,8 @@ articole, și podcast tematic.
 posibilitatea înregistrării la distanță, chiar și a copiilor din Moldova. Oferă
 consultanță părinților și copiilor, programe de studii și sfaturi practice.
 Eliberează certificat de înmatriculare.
+
+### Articole
+
+* [Avantajele și dezavantajele educației
+acasă](https://moldovacrestina.md/avantajele-si-dezavantajele-educatiei-acasa/)
