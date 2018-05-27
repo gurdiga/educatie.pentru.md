@@ -173,9 +173,10 @@ Eliberează certificat de înmatriculare.
 
 ### Articole
 
-* [Avantajele și dezavantajele educației
-acasă](https://moldovacrestina.md/avantajele-si-dezavantajele-educatiei-acasa/)
-* [De ce educație acasă? Creativitatea în școala
-publică](https://moldovacrestina.md/de-ce-educatie-acasa-creativitatea-in-scoala-publica/)
-* [Pași pentru educarea copiilor acasă în Republica
-Moldova](https://moldovacrestina.md/pasi-pentru-educarea-copiilor-acasa-in-republica-moldova/)
+* [Avantajele și dezavantajele educației acasă](https://moldovacrestina.md/avantajele-si-dezavantajele-educatiei-acasa/)
+* [De ce educație acasă? Creativitatea în școala publică](https://moldovacrestina.md/de-ce-educatie-acasa-creativitatea-in-scoala-publica/)
+* [Pași pentru educarea copiilor acasă în Republica Moldova](https://moldovacrestina.md/pasi-pentru-educarea-copiilor-acasa-in-republica-moldova/)
+* [В Украине все больше школьников переходят на домашнее образование: преимущества и эффективность](https://ru.tsn.ua/ukrayina/v-ukraine-vse-bolshe-shkolnikov-perehodyat-na-domashnee-obrazovanie-preimuschestva-i-effektivnost-809543.html)
+* [В Украине появилось домашнее образование](https://styler.rbc.ua/rus/zhizn/ukraine-poyavilos-domashnee-obrazovanie-1459160345.html)
+* [Право на домашнее образование в законодательстве Украины](http://pravotnosheniya.info/Pravo-na-domashnee-obrazovanie-v-zakonodatelstve-Ukraini-487.html)
+* [Альтернативная педагогика: Анскулинг](https://alternativepedagogy.wordpress.com/2011/05/25/unschooling/)
