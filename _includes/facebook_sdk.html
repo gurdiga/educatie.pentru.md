@@ -6,5 +6,5 @@
     js = d.createElement(s); js.id = id;
     js.src = 'https://connect.facebook.net/ro_RO/sdk.js#xfbml=1&version=v2.12';
     fjs.parentNode.insertBefore(js, fjs);
-  }, 5000);
+  }, {{ site.data.options.facebook_delay_seconds }}000);
 }(document, 'script', 'facebook-jssdk'));</script>

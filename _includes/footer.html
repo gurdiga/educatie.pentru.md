@@ -15,7 +15,17 @@
              data-show-facepile="true">
 
           <blockquote cite="https://www.facebook.com/homeschoolingmoldova/" class="fb-xfbml-parse-ignore">
-            <a href="https://www.facebook.com/homeschoolingmoldova/">Homeschooling Moldova</a>
+            Pagina de Facebook:
+            <a href="https://www.facebook.com/homeschoolingmoldova/">„Homeschooling Moldova”</a>
+            se încarcă în
+            <marquee style="display: inline-block; overflow: hidden; width: 1ex; height: 1ex;"
+                     direction="up" scrollamount="2">
+              {%- assign delay_seconds = site.data.options.facebook_delay_seconds -%}
+              {% for i in (1..delay_seconds) %}
+                {{ delay_seconds | minus: i | plus: 1 }}
+              {% endfor %}
+            </marquee>
+            secunde…
           </blockquote>
 
         </div>
