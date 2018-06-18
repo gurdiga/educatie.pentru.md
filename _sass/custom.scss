@@ -8,6 +8,13 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-nav {
   text-transform: capitalize;
 }
 
+.site-title,
+.site-title:visited,
+.post-list-heading,
+.page-link {
+  color: black;
+}
+
 blockquote {
   letter-spacing: 0;
   font-style: normal;
