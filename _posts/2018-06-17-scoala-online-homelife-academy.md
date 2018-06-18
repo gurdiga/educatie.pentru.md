@@ -83,9 +83,7 @@ Deci în total, $180 inițial, și după asta anual cîte $75 ($25+$50 pentru ta
 3 și 4). Cheltuielile de livrare a documente din SUA în RM, de exemplu extrase
 apostilate, trebuie achitate adăugător.
 
-NOTĂ: Acestea sunt datele curente de pe site, și am scris mesaj [la
-contabilitate](billing@homelifeacademy.com) ca să le confirm; o să actualizez
-articolul cînd primesc răspuns.
+> _Am confirmat calculele cu [contabilitatea HLA](billing@homelifeacademy.com)_.
 
 • Pagina originală:
 [http://www.homelifeacademy.com/enroll-nowregistration-fees/](http://www.homelifeacademy.com/enroll-nowregistration-fees/)
