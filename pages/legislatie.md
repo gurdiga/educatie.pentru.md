@@ -150,7 +150,7 @@ a copilului”, în alineatul (1) menționează:
 > convenţionale.”
 
 Cu toate că nu reprezintă un element decisiv în cadrul metodelor alternative de
-educație, e bine de știut despre existența lui ([vedeti articolul despre un caz
+educație, e bine de știut despre existența lui ([vedeți articolul despre un caz
 real]({% post_url 2018-04-06-homeschooling-legal-in-republica-moldova %})).
 
 ## Notă despre completări și modificări
