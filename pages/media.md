@@ -3,7 +3,7 @@ layout: page
 title: Media
 permalink: media
 order: 4
-description: Apariții în mass-media
+description: Apariții publice în mass-media
 ---
 
 Apariții publice în mass-media:
